@@ -1,0 +1,51 @@
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\MoviesDatabase.exe.config
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\MoviesDatabase.exe
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\MoviesDatabase.pdb
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.Loader.resources
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.Properties.Resources.resources
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.csproj.GenerateResource.Cache
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.exe
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.pdb
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.MainForm.resources
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.EditForm.resources
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\Newtonsoft.Json.dll
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\MoviesDatabase.exe.manifest
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\MoviesDatabase.application
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.exe.manifest
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.application
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.csprojResolveAssemblyReference.cache
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.SettingsForm.resources
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\MoviesDatabase.exe.config
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.exe
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.pdb
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\MoviesDatabase.exe.manifest
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\MoviesDatabase.application
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\MoviesDatabase.exe
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\MoviesDatabase.pdb
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\bin\Debug\Newtonsoft.Json.dll
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.EditForm.resources
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.MainForm.resources
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.Loader.resources
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.Properties.Resources.resources
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.SettingsForm.resources
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.csproj.GenerateResource.Cache
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.exe.manifest
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.application
+Z:\MoviesDatabase\MoviesDatabase\MoviesDatabase\obj\Debug\MoviesDatabase.csprojResolveAssemblyReference.cache
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\bin\Debug\MoviesDatabase.exe.config
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.exe
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.pdb
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\bin\Debug\MoviesDatabase.exe.manifest
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\bin\Debug\MoviesDatabase.application
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\bin\Debug\MoviesDatabase.exe
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\bin\Debug\MoviesDatabase.pdb
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\bin\Debug\Newtonsoft.Json.dll
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.csprojResolveAssemblyReference.cache
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.EditForm.resources
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.MainForm.resources
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.Loader.resources
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.Properties.Resources.resources
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.SettingsForm.resources
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.csproj.GenerateResource.Cache
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.exe.manifest
+Z:\MoviesDatabase\MoviesDatabase V1.0\MoviesDatabase\obj\Debug\MoviesDatabase.application

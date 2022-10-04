@@ -1,0 +1,10 @@
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase Settings\bin\Debug\MoviesDatabase Settings.exe.config
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase Settings\bin\Debug\MoviesDatabase Settings.exe
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase Settings\bin\Debug\MoviesDatabase Settings.pdb
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase Settings\bin\Debug\Newtonsoft.Json.dll
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase Settings\obj\Debug\MoviesDatabase_Settings.MainForm.resources
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase Settings\obj\Debug\MoviesDatabase_Settings.Properties.Resources.resources
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase Settings\obj\Debug\MoviesDatabase Settings.csproj.GenerateResource.Cache
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase Settings\obj\Debug\MoviesDatabase Settings.exe
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase Settings\obj\Debug\MoviesDatabase Settings.pdb
+G:\MoviesDatabase\MoviesDatabase\MoviesDatabase Settings\obj\Debug\MoviesDatabase Settings.csprojResolveAssemblyReference.cache
